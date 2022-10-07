@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jihun! I am currently studying Computer Science in NUS.
-- 👀 I’m interested in gaming (not sure about the development side tho)
+- 👀 I’m interested in gaming (exploring game development at the moment)
 - 🌱 I’m currently exploring Unity.
 
 <!---
